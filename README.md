@@ -5,7 +5,7 @@
 
 Building production AI systems on Cloudflare Workers and Android edge devices.  
 Deep expertise in **Prompt & Context Engineering**, **AI orchestration**, and **multi-model architectures**.  
-Self-taught developer with 20 years of audio engineering — now applied to AI audio pipelines.
+
 
 ---
 
