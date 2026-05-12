@@ -56,5 +56,5 @@ I stay current with AI industry developments daily — from new model releases a
 
 ---
 
-📫 **Get in touch:** [Email](aleksbuss@gmail.com) · [LinkedIn](https://linkedin.com/in/your-profile)  
-📄 **[Download CV](https://github.com/aleksbuss)** · 🌐 **[Portfolio](https://aleksejs-portfolio.pages.dev/)** *(coming soon)*
+📫 **Get in touch:** [Email](aleksbuss@gmail.com) · [LinkedIn](https://linkedin.com/in/your-profile) *(coming soon)* 
+📄 **[Download CV](./aleksbussCV.pdf)** · 🌐 **[Portfolio](https://aleksejs-portfolio.pages.dev/)** 
