@@ -2,8 +2,6 @@
 **AI & Edge Computing Developer · Hof (Saale), Germany**  
 *Open to opportunities · EU citizen (Latvia)*
 
-[📄 **Read My CV**](./CV.pdf) | [💼 **LinkedIn**](https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ) | [📧 **Email**](mailto:ТВОЙ_EMAIL@gmail.com)
-
 Building production-ready AI systems on Cloudflare Workers and Android edge devices.  
 Deep expertise in Prompt & Context Engineering, AI orchestration, and multi-model architectures.  
 **Focus:** Fast shipping, low-latency pipelines, and optimizing API costs for businesses.
