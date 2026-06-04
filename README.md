@@ -14,7 +14,7 @@ Deep expertise in Prompt & Context Engineering, AI orchestration, and multi-mode
 | **Bez Paniki** | AI psychology support app — panic intervention, CBT exercises, sleep tracker | Gemini AI, Firebase, Cloudflare Workers, TTS | [🟢 Live Bot](https://t.me/aipanic_bot) |
 | **Text Vault** | Self-hosted text storage on Android via Termux — zero cloud dependency | FastAPI, async SQLite, Cloudflare Tunnels | [📂 Source Code](https://github.com/aleksbuss/Termux-Text-Vault) |
 | **Termux Voice AI** | Fully local speech AI on Android — STT + TTS, no internet required | whisper.cpp, Piper TTS, Python | [📂 Source Code](https://github.com/aleksbuss/Termux-SelfHosted-STT---TTS) |
-| **AI Moderation Bot**| Intelligent Telegram group moderation with escalating violations | OpenRouter, Gemini, n8n, async SQLite | [📂 Source Code](https://github.com/aleksbuss/ИМЯ_РЕПОЗИТОРИЯ) |
+| **AI Moderation Bot**| Intelligent Telegram group moderation with escalating violations | OpenRouter, Gemini, n8n, async SQLite | [🔒 Case study](https://aleksbuss.dev/#projects) |
 
 *(Note: Most of my tools are open-sourced under the MIT license for community use).*
 
@@ -56,5 +56,5 @@ I stay current with AI industry developments daily — from new model releases a
 
 ---
 
-📫 **Get in touch:** aleksbuss@gmail.com · [LinkedIn](https://linkedin.com/in/your-profile) *(coming soon)* 
-📄 **[Download CV](./aleksbussCV.pdf)** · 🌐 **[Portfolio](https://aleksejs-portfolio.pages.dev/)** 
+📫 **Get in touch:** aleksbuss@gmail.com · [GitHub](https://github.com/aleksbuss) 
+📄 **[Download CV](./aleksbussCV.pdf)** · 🌐 **[Portfolio](https://aleksbuss.dev/)** 
