@@ -9,8 +9,8 @@ Creator of **[Orchestra](https://github.com/aleksbuss/orchestra)** — an open-s
 ### 🎼 Flagship: Orchestra
 
 [![Orchestra](https://img.shields.io/badge/aleksbuss%2Forchestra-MIT-blue?logo=github)](https://github.com/aleksbuss/orchestra)
-![Tests](https://img.shields.io/badge/tests-2602-brightgreen)
-![Post-mortems](https://img.shields.io/badge/post--mortems-74%20documented-purple)
+![Tests](https://img.shields.io/badge/tests-2%2C600%2B-brightgreen)
+![Post-mortems](https://img.shields.io/badge/post--mortems-70%2B%20documented-purple)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
 
 Self-hosted AI workspace with a real **Mixture-of-Agents pipeline** — a team of specialised agents, not just one model:
@@ -19,7 +19,7 @@ Self-hosted AI workspace with a real **Mixture-of-Agents pipeline** — a team o
 - **Code-guaranteed Skeptic** — an adversarial critic enforced by code, not by prompt (weak models drop prompt instructions silently)
 - **Embedding-based disagreement detection** — expert conflict is surfaced in the answer, never smoothed away
 - **Reflection loop** (Generator → Critic → Revisor) + live per-chat cost telemetry (tokens + USD)
-- BYOK or fully local via Ollama · **2,602 tests** (Vitest + Playwright) · **74 documented post-mortems** · CI
+- BYOK or fully local via Ollama · **2,600+ tests** (Vitest + Playwright) · **70+ documented post-mortems** · CI
 
 `TypeScript (strict)` `Next.js 15` `Vitest` `Playwright` `Docker` `MIT`
 
@@ -46,7 +46,7 @@ Mixture-of-Agents (MoA) orchestration · Dynamic persona generation · Disagreem
 TypeScript (strict) · Next.js 15 / React · JavaScript (ES Modules, async, Web Audio API) · Python (FastAPI, async) · Bash · Telegram Bot API & Mini Apps
 
 **Engineering Culture**
-2,600+ automated tests in the flagship (Vitest + Playwright E2E) · GitHub Actions CI · Post-mortem-driven development (74 documented) · SSRF / path-traversal guards · Sandbox constraints
+2,600+ automated tests in the flagship (Vitest + Playwright E2E) · GitHub Actions CI · Post-mortem-driven development (70+ documented) · SSRF / path-traversal guards · Sandbox constraints
 
 **Edge & Serverless**
 Cloudflare Workers (production) · On-device AI via Termux/Android (whisper.cpp, Piper TTS, Ollama) · Cloudflare Tunnels · Firebase · VPS/Linux (systemd, Nginx, Docker)
