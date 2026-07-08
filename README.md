@@ -7,7 +7,7 @@ I am an **Agentic AI Engineer** specialising in multi-agent LLM systems, based i
 - 💼 **Looking for:** Agentic AI Engineer, AI Platform, or Founding Engineer roles at early-stage startups (Seed–Series C).
 - 📫 **Reach me:** [aleksbuss@gmail.com](mailto:aleksbuss@gmail.com)
 - 🌐 **Portfolio & Live Agent:** [aleksbuss.dev](https://aleksejs-portfolio.pages.dev/)
-- 📄 **CV:** [English (EN)](https://aleksejs-portfolio.pages.dev/CV-EN.html) · [Deutsch (DE)](https://aleksejs-portfolio.pages.dev/CV.html)
+- 📄 **CV:** [English (EN)](https://aleksejs-portfolio.pages.dev/CV-EN-ATS.html) · [Deutsch (DE)](https://aleksejs-portfolio.pages.dev/CV-ATS.html)
 
 #### 🛠️ Technical Skills
 **AI / Agents:** Mixture-of-Agents (MoA), LLM Orchestration, Disagreement Detection, OpenAI, Google Gemini, Groq Whisper, Ollama, n8n  
